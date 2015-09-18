@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-4db89532b36a1dcc21fd31840245f84fb41072ac.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-78e01bebebfd276de192f2faa5982a9d1f39f932.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-0b9965a8df80b35bd9bbdb164484251085c94e3e.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-946440cead30a9122a79259fb83c0ffaa2980bd5.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-9d6cd09bf720e35d87fae695259b5664dd6812b9.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a527cd5d9aa10f1a387cbd1c4c426fff5022a376">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-4e221f77eab08de3d41d4d7ce6d8495e36b4f938.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-076581f4bbedd73b382450b0fb654b60d27f9b30.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-d6d98372d3a4455b04281084857989150bd4444d.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-8c3098323a905b5b84fe0df2e34bb340680d6545.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/.gradle/caches/modules-2/files-2.1/org.parceler/parceler/1.0.3/383aecb6c2ce22f57595f84144c4244390c5b2f5/parceler-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="383aecb6c2ce22f57595f84144c4244390c5b2f5">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/parceler-1.0.3-a0fc5e3a5856b78f9c3dc66d6575b76cce44a7e6.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-051cf07b24f225ff3ab211dbc0be6d476ad42db2.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.0.3/2b2ec1a0bd113f0ff48151da83d2209ef64ce907/parceler-api-1.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b2ec1a0bd113f0ff48151da83d2209ef64ce907">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/parceler-api-1.0.3-e4bc81a44b62b25dda39b507d55c88887c901716.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-92f64fd9558c2a5861a8362378e16135e95357e8.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-d3206e9efc140d2f307741b614685c52b7c5d4e4.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-5b5f1fcd8a48ed3ed732f268d8095035a94cecef.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-15bf12de768ff44968b6b5136291a21da5a872a9.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/gson-2.3.1-c13465af777a96289fc0cea9ab21d2657ec9d015.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/exploded-aar/br.com.livroandroid/android-utils/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19d7678a8df17881d086f30ddda273d649c5ce0c">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/classes-72d709c6e77eb3f980ab462b85f1593c356bdc45.jar" />
+    </item>
+    <item
+        jar="/Users/geraldoishida/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/geraldoishida/Documents/github/CarrosUP/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-b85bada568f5cb931f120257ca04a8417a05bb21.jar" />
+    </item>
+
+</items>
